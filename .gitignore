@@ -1,0 +1,15 @@
+
+# tooling / logs
+auto_commit.py
+git-activity.log
+
+# python noise
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.pytype/
+.mypy_cache/
+

@@ -1,0 +1,16 @@
+
+## 3.3 `CHANGELOG.md` в стиле Keep a Changelog
+```bash
+cat > CHANGELOG.md << 'MD'
+# Changelog
+Все заметные изменения проекта документируются здесь.
+
+Формат основан на https://keepachangelog.com/ru/1.1.0/
+и проект придерживается Semantic Versioning.
+
+## [Unreleased]
+
+## [0.1.0] - 2025-09-25
+### Added
+- Базовые функции калькулятора: add, sub
+- Документация (README.md)
