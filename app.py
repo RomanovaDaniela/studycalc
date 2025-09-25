@@ -10,3 +10,7 @@ def sub(a, b):
 if __name__ == "__main__":
     print("2 + 3 =", add(2, 3))
     print("5 - 2 =", sub(5, 2))
+
+def abs_val(a):
+    return abs(a)
+# added at 2025-09-25T22:45:23.566395
