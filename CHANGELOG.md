@@ -14,3 +14,6 @@ cat > CHANGELOG.md << 'MD'
 ### Added
 - Базовые функции калькулятора: add, sub
 - Документация (README.md)
+
+## 2025-09-26
+- Minor update
