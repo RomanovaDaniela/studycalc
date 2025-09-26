@@ -23,3 +23,9 @@ def mul(a, b):
 def mod(a, b):
     return a % b
 # added at 2025-09-26T21:04:42.461587
+
+def div(a, b):
+    if b == 0:
+        return 'Error: division by zero'
+    return a / b
+# added at 2025-09-26T21:06:58.137287
