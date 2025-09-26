@@ -3,3 +3,8 @@ def test_power():
     from app import power
     assert power(2, 3) == 8
 # added at 2025-09-25T22:31:22.529784
+
+def test_mul():
+    from app import mul
+    assert mul(2, 3) == 6
+# added at 2025-09-26T17:11:07.311851
