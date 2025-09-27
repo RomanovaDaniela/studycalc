@@ -37,3 +37,7 @@ def mul(a, b):
 def mod(a, b):
     return a % b
 # added at 2025-09-27T11:10:24.741558
+
+def mul(a, b):
+    return a * b
+# added at 2025-09-27T17:11:54.482760
