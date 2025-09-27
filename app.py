@@ -29,3 +29,7 @@ def div(a, b):
         return 'Error: division by zero'
     return a / b
 # added at 2025-09-26T21:06:58.137287
+
+def mul(a, b):
+    return a * b
+# added at 2025-09-27T11:06:00.925660
