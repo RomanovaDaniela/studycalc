@@ -45,3 +45,7 @@ def mul(a, b):
 def mod(a, b):
     return a % b
 # added at 2025-09-29T13:04:47.704983
+
+def square(a):
+    return a * a
+# added at 2025-09-29T17:08:13.423946
