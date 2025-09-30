@@ -26,3 +26,6 @@ cat > CHANGELOG.md << 'MD'
 
 ## 2025-09-30
 - Minor update
+
+## 2025-09-30
+- Minor update
