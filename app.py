@@ -53,3 +53,7 @@ def square(a):
 def square(a):
     return a * a
 # added at 2025-09-30T09:12:00.239195
+
+def square(a):
+    return a * a
+# added at 2025-09-30T11:06:53.583573
