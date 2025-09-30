@@ -49,3 +49,7 @@ def mod(a, b):
 def square(a):
     return a * a
 # added at 2025-09-29T17:08:13.423946
+
+def square(a):
+    return a * a
+# added at 2025-09-30T09:12:00.239195
