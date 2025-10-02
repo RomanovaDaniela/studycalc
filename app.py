@@ -65,3 +65,7 @@ def mod(a, b):
 def mod(a, b):
     return a % b
 # added at 2025-09-30T19:08:02.232727
+
+def power(a, b):
+    return a ** b
+# added at 2025-10-02T13:09:44.754400
