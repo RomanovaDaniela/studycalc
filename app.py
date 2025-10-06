@@ -73,3 +73,7 @@ def power(a, b):
 def power(a, b):
     return a ** b
 # added at 2025-10-03T21:09:23.838153
+
+def square(a):
+    return a * a
+# added at 2025-10-06T21:02:29.412276
