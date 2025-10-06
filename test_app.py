@@ -63,3 +63,8 @@ def test_mul():
     from app import mul
     assert mul(2, 3) == 6
 # added at 2025-10-06T13:03:29.000584
+
+def test_div():
+    from app import div
+    assert div(6, 2) == 3
+# added at 2025-10-06T21:04:55.201493
